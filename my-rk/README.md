@@ -29,10 +29,11 @@ $ wc *.rk
   14076   93957 1567486 train.rk
   18373  123027 2055259 total
 ```
+
 Here,  
-1st column: No. of sentences
-2nd column: No. of words
-3rd column: No. of characters
+1st column: No. of sentences  
+2nd column: No. of words  
+3rd column: No. of characters  
 
 
 # Development and Support
