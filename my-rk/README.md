@@ -15,6 +15,8 @@ train.rk (training data)
 dev.rk (development data)  
 test.rk (test data)  
 
+## Some More Details
+
 ```
 $ wc *.my
    2485   17104  286978 dev.my
@@ -27,6 +29,11 @@ $ wc *.rk
   14076   93957 1567486 train.rk
   18373  123027 2055259 total
 ```
+Here,  
+1st column: No. of sentences
+2nd column: No. of words
+3rd column: No. of characters
+
 
 # Development and Support
 ## Contributors
@@ -34,5 +41,8 @@ Thazin Myint Oo (UCSY)
 [Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/)  
 
 # Acknowledgement
+
+We would like to express our gratitude to U Oo Hla Kyaw (Ba Gyi Kyaw), Editor of the Rakhine Newspaper for valuable advices. We also thank Mg Than Htun Soe (Computer University Sittwe Students' Union ), Mg Htet Myart Kyaw (Computer University Sittwe Students' Union) and Ma Oo Moe Wai (Computer University Sittwe) for their translation of Myanmar language corpus into Rakhine and answering our various questions.  
+
 
 
