@@ -1,7 +1,7 @@
 # Myanmar-Rakhine Parallel Data
 
-Released Date: 9 Oct 2019
-Released at Machine Translation Research Summer School, Yangon Technological University, Myanmar
+Released Date: 9 Oct 2019  
+Released at Machine Translation Research Summer School, Yangon Technological University, Myanmar  
 
 # Files
 
