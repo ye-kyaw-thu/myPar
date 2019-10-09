@@ -47,9 +47,9 @@ We would like to express our gratitude to U Oo Hla Kyaw (Ba Gyi Kyaw), Editor of
 
 # Publication
 
-Thazin Myint Oo, Ye Kyaw Thu, Khin Mar Soe, "Statistical Machine Translation between Myanmar (Burmese) and Rakhine (Arakanese)", In Proceedings of ICCA2018, February 22-23, 2018, Yangon, Myanmar, pp. 304-311. [Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICCA2018/16050.camrea-ready.pdf)  
+Thazin Myint Oo, Ye Kyaw Thu, Khin Mar Soe, "Statistical Machine Translation between Myanmar (Burmese) and Rakhine (Arakanese)", In Proceedings of ICCA2018, February 22-23, 2018, Yangon, Myanmar, pp. 304-311. [[Paper]](https://github.com/ye-kyaw-thu/papers/blob/master/ICCA2018/16050.camrea-ready.pdf)  
 
-Thazin Myint Oo, Ye Kyaw Thu, Khin Mar Soe, "Neural Machine Translation between Myanmar (Burmese) and Rakhine (Arakanese)", In Proceedings of the Sixth Workshop on NLP for Similar Languages, Varieties and Dialects, June 7th 2019, Minneapolis, United States, pp. 80-88 [Paper](http://web.science.mq.edu.au/~smalmasi/vardial6/pdf/W19-1408.pdf?fbclid=IwAR1KJfIZsV4__HY3z84YrIfUf3dtL8BHYRXpuBtlI5yFIisD1kuUx3RS14w)  
+Thazin Myint Oo, Ye Kyaw Thu, Khin Mar Soe, "Neural Machine Translation between Myanmar (Burmese) and Rakhine (Arakanese)", In Proceedings of the Sixth Workshop on NLP for Similar Languages, Varieties and Dialects, June 7th 2019, Minneapolis, United States, pp. 80-88 [[Paper]](http://web.science.mq.edu.au/~smalmasi/vardial6/pdf/W19-1408.pdf?fbclid=IwAR1KJfIZsV4__HY3z84YrIfUf3dtL8BHYRXpuBtlI5yFIisD1kuUx3RS14w)  
 
 
 
