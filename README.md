@@ -2,7 +2,7 @@
 myPar: Myanmar Parallel Corpora for Machine Translation R&amp;D
 
 ## [Myanmar-Rakhine](https://github.com/ye-kyaw-thu/myPar/tree/master/my-rk)  
-14,076 sentences parallel corpus.  
+18,373 sentences parallel corpus.  
 (Released on 9 Oct 2019 at the Machine Translation Research Summer School 2019, YTU, Yangon, Myanmar)  
 
 ## FYI
