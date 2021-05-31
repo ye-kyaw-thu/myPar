@@ -1,8 +1,8 @@
 # English-Myanmar Parallel Corpus with Multiple Translations for Myanmar Side
 
-We developed two English-to-Myanmar parallel corpora for measuring the performance differences between Myanmar and English languages with the use of several possible Myanmar translations for the specific primary educational domain.  
+We developed two English-to-Myanmar parallel corpora for measuring the performance differences between Myanmar (Burmese) and English languages with the use of several possible Myanmar translations for the specific primary educational domain.  
 
-Free for non commercial use! & Enjoy for NLP research purpose!!!  
+**Free for non commercial use! & Enjoy for NLP research purpose!!!**  
 
 ## Files
 
@@ -36,6 +36,8 @@ This is my eye . | ဒါ ကျမ မျက်လုံး ဖြစ် ပါ
 ```
 
 ## One-to-Many Translation Examples
+
+The following is the various translation of the English sentence "I drink tea." into Myanmar language:  
 
 ```
 (base) ye@administrator-HP-Z2-Tower-G4-Workstation:~/data/one-to-many$ sed -n 6504,6593p ./English-Myanmar-one-to-many.ver0.9.txt 
@@ -130,6 +132,8 @@ I drink tea . | ငါ လက်ဖက်ရည် သောက် တာ လေ
 I drink tea . | ငါ လက်ဖက်ရည် သောက် တယ် ။
 I drink tea . | ငါ လက်ဖက်ရည် သောက် ပါ တယ် ။
 ```
+
+The following is the various translation of the English sentence "It’s a cat." into Myanmar language:  
 
 ```
 $ sed -n 15943,15968p ./English-Myanmar-one-to-many.ver0.9.txt 
