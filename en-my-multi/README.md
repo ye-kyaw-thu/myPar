@@ -2,7 +2,7 @@
 
 We developed two English-to-Myanmar parallel corpora for measuring the machine translation performance differences between Myanmar (Burmese) and English with the use of several possible Burmese translations. The domain is based on the primary educational English textbooks of Myanmar.  
 
-**Free for non commercial use! & Enjoy for NLP research purpose!!!**  
+**Free for non-commercial use! & Enjoy for NLP research purpose!!!**  
 
 ## Files
 
