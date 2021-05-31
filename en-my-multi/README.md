@@ -6,8 +6,8 @@ We developed two English-to-Myanmar parallel corpora for measuring the performan
 
 ## Files
 
-English-Myanmar-one-to-one.ver0.9.txt (one-to-one translation)  
-English-Myanmar-one-to-many.ver0.9.txt (one-to-many translation)    
+1. English-Myanmar-one-to-one.ver0.9.txt (one-to-one translation)  
+2. English-Myanmar-one-to-many.ver0.9.txt (one-to-many translation)    
 
 As shown in the following, 8,394 sentences for one-to-one file and 48,494 sentences for one-to-many file.  
 
