@@ -172,7 +172,7 @@ Contributors for developing one-to-one and one-to-many English-Myanmar parallel 
 ### for Version 0.9:  
 
 Honey Htun (Yangon Technological University, Myanmar)  
-[Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/)  
+[Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/) (NECTEC, Thailand)  
 
 ## Publication
 
