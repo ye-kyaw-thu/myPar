@@ -1,6 +1,6 @@
 # English-Myanmar Parallel Corpus with Multiple Translations for Myanmar Side
 
-We developed two English-to-Myanmar parallel corpora for measuring the machine translation performance differences between Myanmar (Burmese) and English languages with the use of several possible Myanmar translations for the specific primary educational domain.  
+We developed two English-to-Myanmar parallel corpora for measuring the machine translation performance differences between Myanmar (Burmese) and English with the use of several possible Burmese translations. The domain is based on the primary educational English textbooks of Myanmar.  
 
 **Free for non commercial use! & Enjoy for NLP research purpose!!!**  
 
