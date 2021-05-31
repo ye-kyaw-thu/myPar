@@ -169,7 +169,7 @@ It’s a cat . | အဲ့ဒါ ကြောင် တစ် ကောင် �
 
 Contributors for developing one-to-one and one-to-many English-Myanmar parallel corpora are as follows:
 
-### for Version 0.9:  
+### for Version 0.9 (Released on 31 May 2021):  
 
 Honey Htun (Yangon Technological University, Myanmar)  
 [Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/) (NECTEC, Thailand)  
