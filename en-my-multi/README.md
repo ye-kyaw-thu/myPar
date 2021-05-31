@@ -19,7 +19,7 @@ $ wc English-Myanmar-one-to-{one,many}.ver0.9.txt
 
 ## Format
 
-The format is: "English | Burmese"  
+The format is: "English | Myanmar"  
 
 ```
 $ shuf ./English-Myanmar-one-to-one.ver0.9.txt | head -n 10
@@ -160,6 +160,15 @@ It’s a cat . | အဲ့ဒါ ကြောင် တစ် ကောင် �
 It’s a cat . | အဲ့ဒါ ကြောင် တစ် ကောင် ဖြစ် ပါ တယ် ။
 It’s a cat . | အဲ့ဒါ ကြောင် တစ် ကောင် လေ ။
 ```
+
+## Development and Support
+
+Contributors for developing one-to-one and one-to-many English-Myanmar parallel corpora are as follows:
+
+### for Version 0.9:  
+
+Honey Htun (Yangon Technological University, Myanmar)  
+[Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/)  
 
 ## Publication
 
