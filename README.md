@@ -9,5 +9,5 @@ myPar: Myanmar Parallel Corpora for Machine Translation R&amp;D
 
 
 ## FYI
-We are preparing several parallel corpora for machine translation R&D of Myanmar languages including Myanmar-Dawei, Myanmar-Myeik, Myanmar-Kachin, Kachin-Rawang, Myanmar-Shan, Myanmar-KayahLi, Myanmar-Chinese ...  
+We are preparing several parallel corpora for machine translation R&D of Myanmar languages including Myanmar-Dawei, Myanmar-Myeik, Myanmar-Kachin, Kachin-Rawang, Myanmar-Shan, Myanmar-KayahLi, Myanmar-Chinese, Myanmar-Korean ...  
 
